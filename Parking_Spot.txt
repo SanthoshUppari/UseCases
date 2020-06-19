@@ -1,0 +1,26 @@
+
+Parking spot application :
+
+
+Employee
+
+Parking_Spot
+01-R-101
+
+VIP Employee will have the own spot (>15 yrs and  >Manager)
+
+
+
+1) Spot owner can release the spot (for single or multiple days)
+2) Normal employee can raise a request to spot
+3) Lottery system should assign free spots to requested employees
+4) Normal user can see the spot assigned temporarily
+
+
+5
+
+1,2  -102
+
+3,4  - 110
+
+5 -239

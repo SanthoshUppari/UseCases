@@ -1,0 +1,28 @@
+
+Employees (Hard code)
+
+Course
+	java
+	spring
+	spring boot
+	MS
+	
+Training
+	batch1 java       1st July to 15th July
+	batch1 spring
+	batch2 java		  5th July to 10th July
+	
+1) Employee can search for training by course
+
+	Java
+		batch1 java       1st July to 15th July
+		batch2 java		  5th July to 10th July
+		
+2) Employee can enrol for training
+
+
+3) Enroled employes based on course group by batch1
+		emp1 java batch1
+		emp2 java batch1
+		emp3 java batch2
+		emp4 java batch2
