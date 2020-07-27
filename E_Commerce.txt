@@ -1,1 +1,7 @@
 E-Commerce
+
+	1) Add products
+	2) Search for products
+	3) product buy
+	4) my orders
+	

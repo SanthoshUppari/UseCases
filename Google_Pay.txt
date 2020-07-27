@@ -1,1 +1,19 @@
 Google Pay
+
+
+1) Bank  app
+	fund transfer based on phone numbers
+	
+Google pay
+
+1) Regidtration
+		fname, lname, age, phone number
+		
+2) fundtrasfer
+		from phone number
+		to phone number
+		amount
+		
+3) Statement
+	latest 10 trans
+		
