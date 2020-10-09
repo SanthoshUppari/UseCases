@@ -1,1 +1,29 @@
 Fund Transfer
+
+1) User registration (It should create a/c automatically)
+2) Fund transfer to other a/cs
+3) Monthly statement
+
+
+
+User
+id int
+fisrt_name   varchar(25)
+
+
+Account
+id        int
+a/c nu    int
+
+
+Endpoint
+
+user registration     /registration        input  {  firstName : string}		   output  { statusMessage : String, statusCode : int}
+													 lastName   : String
+													 phoneNumber : Long
+													
+													}
+
+Sonar
+Swagger
+mysql

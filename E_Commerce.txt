@@ -1,7 +1,12 @@
-E-Commerce
+E-Commerce (a/c - to account)
 
-	1) Add products
-	2) Search for products
-	3) product buy
-	4) my orders
+	category, products, users
+	
+	1) Search for products by product name or category (like serach)
+	2) product buy (make payment with bank service)
+	3) my orders
+	
+	
+	Eureka server
+	Feign client
 	

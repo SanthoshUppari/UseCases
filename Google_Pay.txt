@@ -6,7 +6,7 @@ Google Pay
 	
 Google pay
 
-1) Regidtration
+1) Registration
 		fname, lname, age, phone number
 		
 2) fundtrasfer
@@ -15,5 +15,5 @@ Google pay
 		amount
 		
 3) Statement
-	latest 10 trans
+	latest 10 transactions
 		
