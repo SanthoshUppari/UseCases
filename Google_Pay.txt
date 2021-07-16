@@ -16,4 +16,3 @@ Google pay
 		
 3) Statement
 	latest 10 transactions
-		

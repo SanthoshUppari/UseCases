@@ -1,15 +1,20 @@
 Hunger Box
 
+Spring batch 
+	vendors and food items
+
 1) Search for menu items. (Like search)
 2) Can select multiple items. Place the order after payment with bank service
 3) Can see last 5 orders.
 
 
 Hard code the employee data
-Hard code the menu items
+
 
 
 Eureka server
 Sonar
 Logs
 
+
+5min plz wait
